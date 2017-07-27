@@ -1,0 +1,23 @@
+% Encoding: UTF-8
+
+@Misc{1,
+  note = {http://www.linkfang.de/wiki/Kabomani-Tapir}
+}
+
+@Misc{2,
+  note = {https://de.wikipedia.org/wiki/Tapire}
+}
+
+@Misc{3,
+  note = {https://de.wikipedia.org/wiki/Tapire#Fortpflanzung}
+}
+
+@Misc{4,
+  note = {http://www.4tapirs.de/modules.php%3Fop=modload\&name=News\&file=index\&catid=12.html}
+}
+
+@Misc{5,
+  note = {http://grenzwissenschaft-aktuell.blogspot.de/2013/12/forscher-entdecken-grote-neue-tierart.html}
+}
+
+@comment{jabref-meta: databaseType:bibtex;}
